@@ -1,0 +1,37 @@
+# .NET Core / ASP.NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# ASP.NET scaffolding artifacts
+ScaffoldingReadMe.txt
+
+# Build logs
+msbuild.log
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.vs/
+.vs/
+*.dbmdl
+
+# DotNet environment files
+.env
+secrets.json
+
+# Others
+TestResults/
